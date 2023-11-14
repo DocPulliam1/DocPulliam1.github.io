@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ec858c0.css",
-    "main.js": "/static/js/main.24987fb3.js",
-    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
-    "static/media/hacker.png": "/static/media/hacker.94d116aabb2ca8ca2dd1.png",
-    "static/media/clima.png": "/static/media/clima.c43c0d91c13fbe229363.png",
-    "static/media/bytecoin.png": "/static/media/bytecoin.ae0ead55460f00ac1a2e.png",
-    "static/media/tipsy.png": "/static/media/tipsy.3d2358aab98e7c616caf.png",
-    "static/media/Doc_Pullam_Resume.pdf": "/static/media/Doc_Pullam_Resume.3057d7c9f7196c2dd9f7.pdf",
-    "static/media/mychats.png": "/static/media/mychats.2d16ee5781fb48eaf1c3.png",
-    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/index.html",
-    "main.2ec858c0.css.map": "/static/css/main.2ec858c0.css.map",
-    "main.24987fb3.js.map": "/static/js/main.24987fb3.js.map",
-    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+    "main.css": "/DocPulliam1.github.io/static/css/main.0569dd1a.css",
+    "main.js": "/DocPulliam1.github.io/static/js/main.f766766a.js",
+    "static/js/787.7da95b79.chunk.js": "/DocPulliam1.github.io/static/js/787.7da95b79.chunk.js",
+    "static/media/hacker.png": "/DocPulliam1.github.io/static/media/hacker.94d116aabb2ca8ca2dd1.png",
+    "static/media/clima.png": "/DocPulliam1.github.io/static/media/clima.c43c0d91c13fbe229363.png",
+    "static/media/bytecoin.png": "/DocPulliam1.github.io/static/media/bytecoin.ae0ead55460f00ac1a2e.png",
+    "static/media/tipsy.png": "/DocPulliam1.github.io/static/media/tipsy.3d2358aab98e7c616caf.png",
+    "static/media/Doc_Pullam_Resume.pdf": "/DocPulliam1.github.io/static/media/Doc_Pullam_Resume.3057d7c9f7196c2dd9f7.pdf",
+    "static/media/mychats.png": "/DocPulliam1.github.io/static/media/mychats.2d16ee5781fb48eaf1c3.png",
+    "static/media/home-main.svg": "/DocPulliam1.github.io/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/DocPulliam1.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/DocPulliam1.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/DocPulliam1.github.io/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/DocPulliam1.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/DocPulliam1.github.io/index.html",
+    "main.0569dd1a.css.map": "/DocPulliam1.github.io/static/css/main.0569dd1a.css.map",
+    "main.f766766a.js.map": "/DocPulliam1.github.io/static/js/main.f766766a.js.map",
+    "787.7da95b79.chunk.js.map": "/DocPulliam1.github.io/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ec858c0.css",
-    "static/js/main.24987fb3.js"
+    "static/css/main.0569dd1a.css",
+    "static/js/main.f766766a.js"
   ]
 }
